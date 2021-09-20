@@ -1,0 +1,29 @@
+Ref,Value,Footprint,Description
+"C1,",22p,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor
+"C2, C3,",10u,Capacitor_SMD:CP_Elec_5x3.9,Polarized capacitor
+"C4, C5, C6, C7, C8, C9, C10, C11, C12,",100n,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor
+"D1, D6,",1N4001,"for reverse power protection, others can be used","50V 1A General Purpose Rectifier Diode, DO-41"
+"D2, D3, D4, D5,",1N4148W,Diode_SMD:D_SOD-123,"75V 0.15A Fast Switching Diode, SOD-123"
+"J1,",INPUT2,thonkiconn,
+"J2,",INPUT1,thonkiconn,
+"J3,",1COPY1,thonkiconn,
+"J4,",1COPY2,thonkiconn,
+"J5,",2COPY1,thonkiconn,
+"J6,",2COPY2,thonkiconn,
+"J7,",INPUT3,thonkiconn,
+"J8,",INVERTED,thonkiconn,
+"J9,",FULLRECT,thonkiconn,
+"J10,",NEGATIVE,thonkiconn,
+"J11,",POSITIVE,thonkiconn,
+"J12,",EURO_PWR_2x5,2x5 header,
+"J13,",10V      5V,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"R1, R2,",1M,Resistor_SMD:R_0805_2012Metric,Resistor
+"R3,",3.3k,Resistor_SMD:R_0805_2012Metric,Resistor
+"R4, R9, R10, R11, R16, R18, R21, R22, R23, R24, R31,",100k,Resistor_SMD:R_0805_2012Metric,Resistor
+"R5, R6, R7, R8, R20, R28, R29, R30,",1k,Resistor_SMD:R_0805_2012Metric,Resistor
+"R12, R13, R14, R15, R17, R19, R25, R26, R27,",200k,Resistor_SMD:R_0805_2012Metric,Resistor
+"RV1,",10k,Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles,Potentiometer
+"SW1,",SW_SPDT,1_modular_shared:SPDT,"Switch, single pole double throw"
+"U1,",TL072,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,"Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
+"U2, U3, U4,",TL074,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
+"U5,",LM4040DBZ-10,Package_TO_SOT_SMD:SOT-23,"10.00V Precision Micropower Shunt Voltage Reference, SOT-23"
