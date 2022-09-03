@@ -1,6 +1,6 @@
 # brook eurorack module
 
-![brook_panel.png](brook panel)
+![brook panel](./brook_panel.png)
 
 attenuator/attenuverter/mult & full/half/neg/post rectifier all in one, jacks normalled down the line
 
